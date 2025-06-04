@@ -7,14 +7,6 @@
     padding: 0 2.5rem;
 }
 
-.img-banner {
-    width: 100%;
-    margin-top: 10%;
-    max-width: 25rem;
-    height: 30rem;
-    background-color: gray;
-    border-radius: 5px;
-}
 
 .seccion-banner1 h2 {
     font-size: 2.2rem;
@@ -69,4 +61,13 @@
     font-weight: 400;
     color: #646982;
     margin-top: 1rem;
+}
+.hm3{
+    width: 100%;
+    margin-top: 10%;
+    max-width: 25rem;
+    height: 30rem;
+    background-color: gray;
+    border-radius: 5px;
+
 }

@@ -46,3 +46,47 @@
 .img5 {
     margin-top: 5px;
 }
+.contenedor {
+    position: relative;
+   
+  }
+  
+  
+.fuego {
+    position: absolute;
+    border-radius: 100%;
+    top: 60px;     
+    left: 30px;     
+    width: 50px; 
+}
+.hotdog{
+    position: absolute;
+    border-radius: 100%;
+    top: 60px;     
+    left: 140px;     
+    width: 50px; 
+}
+.burguer{
+    position: absolute;
+    border-radius: 100%;
+    top: 60px;     
+    left: 290px;     
+    width: 50px; 
+}
+.rest{
+    position: absolute;
+    border-radius: 5%;
+    top: 300px;    
+    width: 327px;
+    height: 137px;
+    margin-left: -325px;
+}
+.rest2{
+    position: absolute;
+    border-radius: 5%;
+    margin-top: 238px;    
+    width: 327px;
+    height: 115px;
+    margin-left: -325px;
+}
+  
